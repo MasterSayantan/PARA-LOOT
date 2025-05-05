@@ -161,7 +161,7 @@ def main():
 ❖━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━❖
 ✦  Created By       : Sayantan Saha                               ✦
 ✦  LinkedIn Profile : https://www.linkedin.com/in/mastersayantan/ ✦
-✦  GitHub Profile   : https://github.com/sayantan-saha-cmd/       ✦
+✦  GitHub Profile   : https://github.com/MasterSayantan/          ✦
 ❖━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━❖
 """
     print(logo)
